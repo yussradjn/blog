@@ -1,0 +1,42 @@
+.Top-container {
+  background-color: pink;
+  position: relative;
+  padding-top: 100px;
+}
+
+h1 {
+  margin: 0 auto;
+  width: 5%;
+  font-family: Sacramento,cursive;
+  font-size: 72px;
+  color: #FF4A4A;
+}
+h2{
+  font-family:Montserrat,sans-serif;
+  font-weight: bolder;
+  color: #FF4A4A;
+}
+h3{
+  font-family: Montserrat,sans-serif;
+  color: #FF4A4A;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: Merriweather, serif;
+
+}
+.bottom-cloud{
+position: absolute;
+bottom:250px;
+left:600px;
+
+}
+.top-cloud{
+position: absolute;
+left: 900px;
+}
+.skills{
+  
+}
